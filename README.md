@@ -12,7 +12,7 @@ Steps:
   > Run this code by commenting the one browser at a time.
  
 Output:
-  When we run the above code will see that given projec url is successfully redirected in the Crome and IE browser.
+  When we run the above code will see that given projec url is successfully redirected in the Chrome and IE browser.
   
 
 2. Find_element.py
